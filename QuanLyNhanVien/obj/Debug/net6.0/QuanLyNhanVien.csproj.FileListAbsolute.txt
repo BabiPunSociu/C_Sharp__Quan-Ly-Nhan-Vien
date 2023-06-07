@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\net6.0\QuanLyNhanVien.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\net6.0\QuanLyNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\net6.0\QuanLyNhanVien.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\net6.0\QuanLyNhanVien.AssemblyInfo.cs
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\net6.0\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\net6.0\QuanLyNhanVien.exe
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\net6.0\QuanLyNhanVien.deps.json
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\net6.0\QuanLyNhanVien.runtimeconfig.json
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\net6.0\QuanLyNhanVien.dll
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\net6.0\QuanLyNhanVien.pdb
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\net6.0\QuanLyNhanVien.dll
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\net6.0\refint\QuanLyNhanVien.dll
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\net6.0\QuanLyNhanVien.pdb
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\net6.0\QuanLyNhanVien.genruntimeconfig.cache
+C:\Users\ADMIN\source\C#Programming\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\net6.0\ref\QuanLyNhanVien.dll
